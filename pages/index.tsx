@@ -10,7 +10,6 @@ import BonusStripe from '../components/BonusStripe/BonusStripe';
 import VideoDiscalimer from '../components/VideoDisclaimer/VideoDisclaimer';
 import FullPageLoader from '../components/FullPageLoader';
 import Container from '../components/Layouts/Container';
-import Image from 'next/image'
 
 interface Props {
   streamerData : Streamer
